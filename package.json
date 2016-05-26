@@ -1,0 +1,27 @@
+{
+  "name": "heroku-node",
+  "version": "1.0.0",
+  "description": "Heroku Node Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yauritux/heroku-node.git"
+  },
+  "keywords": [
+    "Heroku",
+    "Node"
+  ],
+  "author": "Yauri Attamimi <yauritux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yauritux/heroku-node/issues"
+  },
+  "homepage": "https://github.com/yauritux/heroku-node#readme",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.13.4"
+  }
+}
